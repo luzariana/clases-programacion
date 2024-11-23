@@ -1,0 +1,59 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+  padding: 10px;
+  background-color:rgb(55, 45, 45);
+  align-items: center;
+  display: flex;
+  color: white;
+  flex-direction: column;
+
+}
+
+.options {
+ color: white;
+ height: 50px;
+ background-color: rgb(67, 61, 61);
+ width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ gap: 20px;
+ 
+}
+
+h2 {
+background-color: rgb(215, 214, 214);
+color: black;
+}
+
+.subtitulo{
+  color: black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(232, 232, 232);
+  padding: 20px;
+}
+
+#subtituloh2 {
+  background-color: unset;
+  color:black;
+
+}
+
+img{
+height: 100;
+}
+
+#intro {
+  display:  flex;
+  align-items: start;
+  gap: 20px;
+}
+
+p {
+  margin: 0;
+}
